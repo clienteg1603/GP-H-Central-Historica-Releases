@@ -6,9 +6,9 @@
     "test": {
       "version": "0.48.51",
       "url": "https://github.com/clienteg1603/GP-H-Central-Historica-Releases/releases/download/v0.48.51-test/GP-H_update_v0.48.51.zip",
-      "sha256": "0e0508ed574678145d713e44dcf41bbeaa70dc539460bc94f2100d4dbce2c0e1",
+      "sha256": "dd05eab63ffa39e9d16d1f3278a21b0e296838f594630ffe2f74350f3e3643a1",
       "notes": "Atualização de teste automática do GP-H Central Histórica",
-      "published_at": "2026-10-01T09:23:41+00:00",
+      "published_at": "2026-10-01T09:24:17+00:00",
       "mirrors": []
     },
     "stable": {
@@ -20,5 +20,5 @@
       "mirrors": []
     }
   },
-  "updated_at": "2026-10-01T09:23:41+00:00"
+  "updated_at": "2026-10-01T09:24:17+00:00"
 }
