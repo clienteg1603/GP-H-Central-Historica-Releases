@@ -4,13 +4,13 @@
   "server_name": "GitHub GP-H",
   "channels": {
     "test": {
-      "version": "0.48.92",
-      "url": "https://github.com/clienteg1603/GP-H-Central-Historica-Releases/releases/download/v0.48.92-test/GP-H_update_v0.48.92.zip",
-      "sha256": "cbd84464f620c7837fb00b9a82e462cd17f01a63170b5e57ce2c817a38e9a171",
-      "notes": "Atualização de teste automática do GP-H Central Histórica",
-      "published_at": "2026-11-17T09:34:40+00:00",
+      "version": "0.48.93",
+      "url": "https://github.com/clienteg1603/GP-H-Central-Historica-Releases/releases/download/v0.48.93-test/GP-H_update_v0.48.93.zip",
+      "sha256": "770f4d2a86b945b7cae20bdc0f19796d9525dacd6c0806882c0cb01b1e62bc74",
+      "notes": "Corrige a contagem da Federal dominical duplicada nos horários 11h e 11h20; preserva resultados e previsões congeladas.",
+      "published_at": "2026-11-24T20:23:28+00:00",
       "mirrors": [
-        "https://raw.githubusercontent.com/clienteg1603/GP-H-Central-Historica-Releases/e91ea7e7cdcd1e6c1dd593b3bf6fc7fe82ce4eb0/GP-H_update.zip"
+        "https://raw.githubusercontent.com/clienteg1603/GP-H-Central-Historica-Releases/23a5ed6f11e06e4826ffdf7d1fa2ab8a30aadece/GP-H_update.zip"
       ]
     },
     "stable": {
@@ -22,5 +22,5 @@
       "mirrors": []
     }
   },
-  "updated_at": "2026-11-17T09:34:40+00:00"
+  "updated_at": "2026-11-24T20:23:28+00:00"
 }
